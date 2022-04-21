@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\WUHAO\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\WUHAO\bin;F:\Git\mingw64\bin;F:\Git\usr\local\bin;F:\Git\usr\bin;F:\Git\usr\bin;F:\Git\mingw64\bin;F:\Git\usr\bin;C:\Users\WUHAO\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;F:\Git\cmd;F:\OpenSSH\bin;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\MongoDB\Server\4.2\bin;%NVM_HOME%;%NVM_SYMLINK%;C:\Users\WUHAO\AppData\Local\Programs\Python\Python38\Scripts;C:\Users\WUHAO\AppData\Local\Programs\Python\Python38;C:\Users\WUHAO\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.1\bin;C:\Program Files\JetBrains\PyCharm 2020.1\bin;C:\Program Files\Bandizip;C:\Users\WUHAO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\WUHAO\AppData\Roaming\npm;C:\Users\WUHAO\AppData\Roaming\nvm;C:\Program Files\nodejs;F:\Git\usr\bin\vendor_perl;F:\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  14.18.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (C:\Users\WUHAO\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:96800:59)
+      at Object.<anonymous> (C:\Users\WUHAO\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:89075:38)
+      at Generator.next (<anonymous>)
+      at step (C:\Users\WUHAO\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\WUHAO\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
